@@ -6,12 +6,13 @@ Anggota :
 3. Muhammad Dzaki Arrahman - 2017051073
 
 # Pembagian Tugas :
-- Muhammad Fachru Syahputra : 
-- Akmal Gilang Rosadi       : 
-- Muhammad Dzaki Arrahman   :
+- Muhammad Fachru Syahputra : Membuat GUI menggunakan JavaFX dan Scene Builder
+- Akmal Gilang Rosadi       : Membuat database pada MYSQL dan menghubungkan program
+- Muhammad Dzaki Arrahman   : Mengembangkan Class yang akan digunakan pada program
 
 # Libraries dan Tools :
 - mysql-connector-java-8.0.26.jar
 - sqlite-jdbc-3.36.0.3.jar
 - scene builder
 - xampp
+
