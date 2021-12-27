@@ -32,3 +32,15 @@ Anggota :
 - Class Diagram for JavaFX and Database
 - 
 ![135701617-f6484abd-4cd0-478d-842c-72274834221b (2)](https://user-images.githubusercontent.com/83508455/147440231-f49897e6-51d8-4f23-88cc-edb3e8532e8e.png)
+
+# Result : Terkoneksi ke MYSQL
+- Individu
+- ![image](https://user-images.githubusercontent.com/83508455/147440748-54ee3ac9-3b86-4fcf-afd5-15cfc47f71e1.png)
+
+- Perusahaan
+- ![image](https://user-images.githubusercontent.com/83508455/147441045-15786c02-5b0b-4e29-a739-572c9329968d.png)
+
+- Transaksi
+- ![image](https://user-images.githubusercontent.com/83508455/147441123-87008fc9-3579-4c8e-8306-1dce8ce937c4.png)
+- ![image](https://user-images.githubusercontent.com/83508455/147441194-0165094f-93e2-4e94-8880-7e55e1de65bc.png)
+
