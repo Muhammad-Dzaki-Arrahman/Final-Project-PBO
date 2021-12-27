@@ -1,6 +1,6 @@
 # Final-Project-PBO
-About this project
-Sistem yang dapat digunakan untuk merekam transaksi data nasabah di bank, dimana terdapat 2 jenis nasabah yaitu individu dan perusahaan. Setiap nasabah dapat memiliki 1 atau lebih rekening.
+About this project :
+- Sistem yang dapat digunakan untuk merekam transaksi data nasabah di bank, dimana terdapat 2 jenis nasabah yaitu individu dan perusahaan. Setiap nasabah dapat memiliki 1 atau lebih rekening.
 
 # 
 Kelompok 9 PBO Kelas C
