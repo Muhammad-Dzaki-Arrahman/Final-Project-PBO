@@ -6,7 +6,7 @@ Anggota :
 3. Muhammad Dzaki Arrahman - 2017051073
 
 # Pembagian Tugas :
--Muhammad Fachru Syahputra : 
+Muhammad Fachru Syahputra : 
 -Akmal Gilang Rosadi       : 
 -Muhammad Dzaki Arrahman   :
 
